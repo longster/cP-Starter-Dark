@@ -6,6 +6,7 @@ If you're looking for a LIGHT version, visit [cP Starter Light](https://github.c
 
 
 --------------------------
+
 ###Custom Style Installation###
 cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of role that best suits your needs in order to complete the installation.  
 
@@ -53,10 +54,10 @@ cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of r
         + Navigate to Branding:  cPanel > Branding 
         + Upload your logo under Company Logo
 
---------------------------
 
 If you see any incorrect information, please contact me or open an issue. Thanks!
 
+--------------------------
 
 ###Additional Resources###
 - [Setting default style on the box and removing ability for user to change their styles](https://blog.cpanel.com/how-to-set-a-default-style-with-paper-lantern/)
