@@ -8,7 +8,7 @@ If you're looking for a LIGHT version, visit [cP Starter Light](https://github.c
 --------------------------
 
 ###Custom Style Installation###
-cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of role that best suits your needs in order to complete the installation.  
+A couple things before you start.  First, identify the type of role that best suits your needs in order to complete the installation. Secondly, cP Starter is compatible to **cPanel & WHM 56 or later**. 
 
 1. Download and extract the files
 
