@@ -7,7 +7,6 @@ If you're looking for a LIGHT version, visit [cP Starter Light](https://github.c
 
 --------------------------
 ###Custom Style Installation###
----
 cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of role that best suits your needs in order to complete the installation.  
 
 1. Download and extract the files
@@ -60,7 +59,6 @@ If you see any incorrect information, please contact me or open an issue. Thanks
 
 
 ###Additional Resources###
----
 - [Setting default style on the box and removing ability for user to change their styles](https://blog.cpanel.com/how-to-set-a-default-style-with-paper-lantern/)
 - [cPanel Branding Basics: A Guide for Reseller Hosts](https://blog.cpanel.com/cpanel-branding-basics-a-guide-for-reseller-hosts/)
 - [Create a Custom cPanel Style](https://documentation.cpanel.net/display/SDK/Tutorial+-+Create+a+Custom+cPanel+Style)
