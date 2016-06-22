@@ -1,5 +1,5 @@
 #cP Starter Style - DARK
-
+--------------------------
 cP Starter is intended for you to modify the appearance of the cPanel interface and kickstart your own custom style. It is a professional, yet minimalistic approaches that can be used as is or adapted to match your company’s branding and logo. 
 
 If you're looking for a LIGHT version, visit [cP Starter Light](https://github.com/longster/cP-Starter-Light).
