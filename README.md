@@ -1,18 +1,17 @@
 #cP Starter Style - DARK
 
-cP Starter is a base style intended for designers, developers, server admins, resellers, and/or anyone who isn’t afraid to code.  It is a professional, yet minimalistic approaches that can be used as is or adapted to match your company’s branding and logo. 
+cP Starter is intended for you to modify the appearance of the cPanel interface and kickstart your own custom style. It is a professional, yet minimalistic approaches that can be used as is or adapted to match your company’s branding and logo. 
 
 If you're looking for a LIGHT version, visit [cP Starter Light](https://github.com/longster/cP-Starter-Light).
 
-> ###cP Starter is intended for you to modify the appearance of the cPanel interface and kickstart your own custom style. 
 
 
 ##Custom Style Installation##
-You’ll want to identify the type of role that best suits your needs in order to complete the installation. In addition, cP Starter is only compatible to **cPanel & WHM 56 or later**. 
+cP Starter is compatible to **cPanel & WHM 56 or later**. Identify the type of role that best suits your needs in order to complete the installation.  
 
-1. Download and uncompress the zip files
+1. Download and extract the files
 
-2. Upload (via FTP) the folder “cP_Starter_Dark” and place them below the directory “styled” (Note: if the directory folders do not exist, create them in the right order): 
+2. Upload all of the files under a folder called “cP_Starter_Dark” and place them within the directory “styled” (Note: if the directory folders do not exist, create them in the right order): 
 
     - **Server**: 
         + `/var/cpanel/customizations/styled/cP_Starter_Dark/`
@@ -58,7 +57,7 @@ You’ll want to identify the type of role that best suits your needs in order t
 If you see any incorrect information, please contact me or open an issue. Thanks!
 
 
-###Resources###
+###Additional Resources###
 - [Setting default style on the box and removing ability for user to change their styles](https://blog.cpanel.com/how-to-set-a-default-style-with-paper-lantern/)
 - [cPanel Branding Basics: A Guide for Reseller Hosts](https://blog.cpanel.com/cpanel-branding-basics-a-guide-for-reseller-hosts/)
 - [Create a Custom cPanel Style](https://documentation.cpanel.net/display/SDK/Tutorial+-+Create+a+Custom+cPanel+Style)
