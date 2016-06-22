@@ -12,7 +12,8 @@ A couple things before you start.  First, identify the type of role that best su
 
 1. Download and extract the files
 
-2. Upload all of the files under a folder called “cP_Starter_Dark” and place them within the directory “styled” *(Note: if the directory folders do not exist, create them in the right order)*: 
+2. Upload all of the files under a folder called “cP_Starter_Dark” and place them within the directory “styled”: 
+*(Note: if the directory folders do not exist, create them in the right order)*
 
     - **Server**: 
         + `/var/cpanel/customizations/styled/cP_Starter_Dark/`
@@ -23,7 +24,8 @@ A couple things before you start.  First, identify the type of role that best su
     - **cPanel User**: 
         + `/home/username/var/cpanel/styled/cP_Starter_Dark/` *(Note: username - represents the cPanel account's username)*
 
-3. Generate custom icons via command line *(Note: this is optional as it replaces existing icons)*: 
+3. Generate custom icons via command line:  
+*(Note: this is optional as it replaces existing icons)*
 
     - **Both Server & Reseller**:
         + Log in to the server via SSH as a root or reseller user
@@ -35,7 +37,8 @@ A couple things before you start.  First, identify the type of role that best su
     - **Server**:
         + Log in to the server via SSH as the root user
         + Run the command: 
-            - `ln -s /var/cpanel/customizations/styled/cP_Starter_Dark default_style` *(Note: This sets the default for all new accounts. It does not modify any existing accounts. To do so, you will need to change default style under “cPanel User” instruction.)*
+            - `ln -s /var/cpanel/customizations/styled/cP_Starter_Dark default_style` 
+            *(Note: This sets the default for all new accounts. It does not modify any existing accounts. To do so, you will need to change default style under “cPanel User” instruction.)*
             
     - **Reseller**: 
         + Login to cPanel
