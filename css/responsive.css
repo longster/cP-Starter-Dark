@@ -1,0 +1,267 @@
+/****************************
+ *** LG ***
+ ****************************/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	/*----- NAV SECTION -----*/ 
+	
+	/*----- BODY INDEX -----*/
+	.item {
+		width: 47%;
+	}
+	
+	.itemTextWrapper {
+		width: 77%;
+	}
+    #quickjump {
+        background-position: 98% 10px;
+    }
+	
+}
+
+
+/****************************
+ *** MD ***
+ ****************************/
+@media (min-width: 769px) and (max-width: 991px) {
+
+	/*----- NAV SECTION -----*/    
+
+	/* Sidebar nav */
+	#sidebar {
+		top: 50px;
+	}
+	
+	/*----- BODY INDEX -----*/
+    
+    html[dir="ltr"] #content {
+        margin: 40px 10px 5px 10px
+    }
+    
+    #quickjump {
+        background-position: 97% 10px;
+    }
+    
+	.item {
+		width: 30.5%;
+	}
+	
+	.itemImageWrapper {
+		padding: 8px 0;
+	}
+	
+	.itemTextWrapper {
+		width: 65%;
+	}
+	
+    #stats {
+        margin-left: 15px;
+        width:95%;
+    }
+
+}
+
+/****************************
+ *** SM ***
+ ****************************/
+@media (max-width: 768px) {
+
+	/*----- NAV SECTION -----*/ 
+	#lnkHeaderHome {
+		padding-left: 5px;
+		margin-left:50px;
+	}
+
+	#btnSideBarToggle {
+		background-color: #ff6c2c;
+	}
+	.cp-nav-toggle {
+		padding: 0 15px;
+	}
+    .cp-icon-bar {
+        background-color: #fff;  
+        width: 20px;  
+    }
+	.navbar .fa-lg {
+	    margin-top: 22px;
+	}
+
+	#lnkHeaderLogout {
+	    padding-top: 10px;
+	}
+    #jump-search {
+		padding: 1em;
+		background-color: #262626;
+		margin-top: 3;
+        margin-bottom: 0;
+		border: 1px solid #333;
+	}
+	
+	#quickjump {
+		border-radius: 0;
+		background-color: #fff;
+		border: 1px solid #eee;
+		-webkit-box-shadow: inset 0 0px 3px rgba(0,0,0,.15);
+		box-shadow: inset 0 0px 3px rgba(0,0,0,.15);
+        background-position: 96% 10px;
+	}
+	/* Sidebar nav */
+	#sidebar {
+		top: 50px;
+	}
+
+    #sidebar a.active {
+        box-shadow: 0px 0px 0px 0 #303030;
+    }
+
+	/*----- BODY INDEX -----*/
+
+
+	/* content */
+
+	html[dir="ltr"] #content, 
+	html[dir="ltr"] #stats {
+		padding-left: 15px;
+	}
+
+	html[dir="ltr"] #content {
+		margin: 40px 5px 5px 5px;
+	}
+
+	#boxes,
+	#jump-search,
+	#featureShowcaseSection {
+		margin-right: 0;
+	}
+
+	.dashboard-item .panel-body,
+	.panel-body {
+		padding: 10px;
+	}
+    
+	.item {
+		width: 47%;
+		margin: 0px 1.5% 15px 1.5%;
+		max-height: 138px;
+	}
+	
+	.itemContentWrapper {
+		border-color: #ff6c2c;
+	}
+	
+	.itemImageWrapper {
+		margin: 20px auto 0;
+    	display: block;
+	}
+
+	.itemTextWrapper {
+		width: 100%;
+		font-size: 13px;
+		text-align: center;
+		margin-bottom: 20px;
+		margin-left: 0;
+	}
+	#content .itemTextWrapper a, 
+	#content a.itemTextWrapper {		
+		padding: 15px;
+		display: block;
+	}
+    
+	/* DETAIL / ACTION */
+	h1.page-header .page-icon {
+		display: none;
+	}
+
+
+
+	/* FOOTER */
+	html[dir="ltr"] footer {
+		padding-left: 15px;
+	}
+
+	html[dir="ltr"] footer .navbar-brand  {
+		text-align: center;
+		margin-left: 0;
+		width:100%;
+	}
+
+	footer .navbar {
+		width:98%;
+	}
+
+	footer .nav.navbar-nav {
+		float: inherit;
+	}
+
+	.navbar-nav{
+		margin: 0;
+	}
+	
+	footer .nav.navbar-nav li:first-child {
+		display: none;
+	}
+	
+	footer .nav > li {
+		display: inline-block;
+		width: 49%;
+		text-align: center;
+	}
+	
+	footer .nav > li {
+		display: inline-block;
+	}
+	
+	#lnkPoweredByCpanel {
+		padding: 0 10px 10px;
+	}
+	
+	#txtCpanelVersion {
+		width: 100%;
+		padding-bottom: 50px;
+	}
+
+	
+}
+
+
+
+/****************************
+ *** XS ***
+ ****************************/
+@media (max-width: 480px) {
+
+	/* NAV SECTION */
+	#btnUserPref, 
+	#lnkHeaderLogout,
+	#lnkHeaderNotifications {
+		min-width: 25px;
+		padding-left: 12px;
+    	padding-right: 12px;
+	}
+
+	/* BODY INDEX */
+	
+    #quickjump {
+        background-position: 95% 10px;
+    }
+
+	.widget-heading {
+		padding: 10px;
+	}
+	.itemTextWrapper {
+		font-size: 14px;
+	}
+	html[dir="ltr"] footer {
+		padding-left: 0;
+	}
+	footer .navbar {
+		width: 100%;
+	}
+	.navbar-nav{
+		margin: 0;
+	}
+	footer sub, footer sup {
+		line-height: inherit;
+	}
+
+}
