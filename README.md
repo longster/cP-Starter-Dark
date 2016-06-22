@@ -12,7 +12,7 @@ A couple things before you start.  First, identify the type of role that best su
 
 1. Download and extract the files
 
-2. Upload all of the files under a folder called “cP_Starter_Dark” and place them within the directory “styled”: 
+2. Place the extracted files in a new folder called cP_Starter_Light and upload them in the following directory: 
 *(Note: if the directory folders do not exist, create them in the right order)*
 
     - **Server**: 
