@@ -1,4 +1,4 @@
-#cP Starter Style - Light
+#cP Starter Style - DARK
 
 cP Starter is a base style intended for designers, developers, server admins, resellers, and/or anyone who isn’t afraid to code.  It is a professional, yet minimalistic approaches that can be used as is or adapted to match your company’s branding and logo. 
 
