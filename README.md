@@ -63,6 +63,7 @@ If you see any incorrect information, please contact me or open an issue. Thanks
 --------------------------
 
 ###Additional Resources###
+- [cPanel Branding Basics: A Guide to Reseller Hosts](https://blog.cpanel.com/cpanel-branding-basics-a-guide-for-reseller-hosts/)
 - [Setting default style on the box and removing ability for user to change their styles](https://blog.cpanel.com/how-to-set-a-default-style-with-paper-lantern/)
 - [cPanel Branding Basics: A Guide for Reseller Hosts](https://blog.cpanel.com/cpanel-branding-basics-a-guide-for-reseller-hosts/)
 - [Create a Custom cPanel Style](https://documentation.cpanel.net/display/SDK/Tutorial+-+Create+a+Custom+cPanel+Style)
