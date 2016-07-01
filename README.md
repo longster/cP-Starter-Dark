@@ -19,7 +19,7 @@ A couple things before you start.  First, identify the type of role that best su
         + `/var/cpanel/customizations/styled/cP_Starter_Dark/`
         
     - **Reseller**: 
-        + `var/cpanel/reseller/styled/cP_Starter_Dark/`
+        + `/home/reseller/var/cpanel/reseller/styled/cP_Starter_Dark/` *(Note: reseller - represents the cPanel account's reseller's username)*
         
     - **cPanel User**: 
         + `/home/username/var/cpanel/styled/cP_Starter_Dark/` *(Note: username - represents the cPanel account's username)*
