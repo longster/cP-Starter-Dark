@@ -37,7 +37,7 @@ A couple things before you start.  First, identify the type of role that best su
     - **Server**:
         + Log in to the server via SSH as the root user
         + Run the command: 
-            - `ln -s /var/cpanel/customizations/styled/cP_Starter_Dark default_style` 
+            - `ln -s /var/cpanel/customizations/styled/cP_Starter_Dark /var/cpanel/customizations/styled/default_style` 
             *(Note: This sets the default for all new accounts. It does not modify any existing accounts. To do so, you will need to change default style under “cPanel User” instruction.)*
             
     - **Reseller**: 
